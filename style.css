@@ -3806,7 +3806,7 @@ body{
 	height: 34px;
 	width: 34px;
 	line-height: 34px;
-	text-align: right;
+	text-align: center;
 	border: 1px solid #d29f36;
 	padding: 0;
 	border-radius: 100%;
@@ -3853,6 +3853,7 @@ body{
 	padding-bottom:20px;
 	text-transform:capitalize;
 	position:relative;
+	a
 	
 }
 .footer .single-footer h2::before{
